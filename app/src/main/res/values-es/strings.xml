@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aplicación DSA</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="label_hello">"contador de clicks = "</string>
+    <string name="clickme">Clicame!</string>
+    <string name="someoneclicked">alguien ha clicado en el boton...</string>
+    <string name="editabletext"></string>
+</resources>
